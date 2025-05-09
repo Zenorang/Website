@@ -1,9 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="JjNek62RBgruZnORAdBT">
-    <mxGraphModel>
+    <mxGraphModel dx="2141" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m1H3jJ1RJUN1VjLQCeo--5" value="Departments" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="160" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="m1H3jJ1RJUN1VjLQCeo--6" value="Orthopedic&lt;div&gt;Pathology&lt;/div&gt;&lt;div&gt;Emergency&lt;/div&gt;&lt;div&gt;Dental&lt;/div&gt;&lt;div&gt;Gynecology&lt;/div&gt;&lt;div&gt;Anesthetics&lt;/div&gt;&lt;div&gt;ICU&lt;/div&gt;&lt;div&gt;Blood Bank&lt;/div&gt;&lt;div&gt;Operation Theatre&lt;/div&gt;&lt;div&gt;Laboratory&lt;/div&gt;&lt;div&gt;M.R.I&lt;/div&gt;&lt;div&gt;Neurology&lt;/div&gt;&lt;div&gt;Cardiology&lt;/div&gt;&lt;div&gt;Cancer Department&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="m1H3jJ1RJUN1VjLQCeo--5">
+          <mxGeometry y="50" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="m1H3jJ1RJUN1VjLQCeo--8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1H3jJ1RJUN1VjLQCeo--6" target="m1H3jJ1RJUN1VjLQCeo--10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1H3jJ1RJUN1VjLQCeo--9" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" width="160" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="m1H3jJ1RJUN1VjLQCeo--10" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="m1H3jJ1RJUN1VjLQCeo--9">
+          <mxGeometry y="50" width="160" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
