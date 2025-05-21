@@ -193,8 +193,8 @@
         <mxCell id="z2fp6Gsrct1kZspJMTov-66" value="fault_report(&lt;u&gt;staff_no(FK),registration_no(FK)&lt;/u&gt;, date_checked, faults)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-430" y="140" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z2fp6Gsrct1kZspJMTov-67" value="staff_no references staff(staff_no)&lt;div&gt;registration_no references vehicle(registration_no)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="182" width="290" height="40" as="geometry" />
+        <mxCell id="z2fp6Gsrct1kZspJMTov-67" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;staff_no references staff(staff_no)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;registration_no references vehicle(registration_no)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="178" width="290" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
